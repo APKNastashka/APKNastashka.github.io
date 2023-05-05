@@ -1,1 +1,3 @@
-https://apknastashka.github.io/
+https://apknastashka.github.io
+
+- feat: implement mobile version
